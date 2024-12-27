@@ -1,0 +1,3 @@
+Êþº¾   =   "com/Harshad/foodstore/dao/FoodDao  java/lang/Object add %(Lcom/Harshad/foodstore/pojo/Food;)Z update &(ILcom/Harshad/foodstore/pojo/Food;)Z delete (I)Z all ()Ljava/util/List; 	Signature 6()Ljava/util/List<Lcom/Harshad/foodstore/pojo/Food;>; getById %(I)Lcom/Harshad/foodstore/pojo/Food; 
+SourceFile FoodDao.java                	 
+                    
